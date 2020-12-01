@@ -4,11 +4,11 @@ SCS 3546-010 Deep Learning Project
 Group: Liam Callaghan, Peter Kiedrowski and Prashant Sharma
 
 The project consists of three notebooks:
-* [Recurrent_Autoencoder](https://github.com/peterkd/DeepLearningProject/blob/main/Recurrent%20LSTM%20Autoencoder/Recurrent_Autoencoder.ipynb)
-* [BERT Classifier](https://github.com/peterkd/DeepLearningProject/blob/main/BERT/BERT_Classifier.ipynb)
-* [GloVe_Classifier](https://github.com/peterkd/DeepLearningProject/blob/main/Glove_Classifier.ipynb)
+* [Recurrent_Autoencoder](https://github.com/peterkd/DeepLearningProject/blob/main/Recurrent%20LSTM%20Autoencoder/Recurrent_Autoencoder.ipynb){:target="_blank"}
+* [BERT Classifier](https://github.com/peterkd/DeepLearningProject/blob/main/BERT/BERT_Classifier.ipynb){:target="_blank"}
+* [GloVe_Classifier](https://github.com/peterkd/DeepLearningProject/blob/main/Glove_Classifier.ipynb){:target="_blank"}
 
-Sentiment analysis is a common and highly beneficial application of Deep Learning for many organizations. Sentiment analysis can be applied to social media posts, reviews and product complaints to name a few. There are numerous approaches to classify sentiment in Python. This project aims to explore just some of the available methodologies that are available in order to improve the accuracy for sentiment classification based on the TensorFlow Sentiment Analysis tutorial ([RNN](https://www.tensorflow.org/tutorials/text/text_classification_rnn), [BERT](https://www.tensorflow.org/tutorials/text/classify_text_with_bert) and [GloVe](https://www.tensorflow.org/tutorials/text/word_embeddings)): 
+Sentiment analysis is a common and highly beneficial application of Deep Learning for many organizations. Sentiment analysis can be applied to social media posts, reviews and product complaints to name a few. There are numerous approaches to classify sentiment in Python. This project aims to explore just some of the available methodologies that are available in order to improve the accuracy for sentiment classification based on the TensorFlow Sentiment Analysis tutorial ([RNN](https://www.tensorflow.org/tutorials/text/text_classification_rnn){:target="_blank"}, [BERT](https://www.tensorflow.org/tutorials/text/classify_text_with_bert){:target="_blank"} and [GloVe](https://www.tensorflow.org/tutorials/text/word_embeddings){:target="_blank"}: 
 
 In this project, we focus on the most popular text dataset for Deep Learning sentiment analysis: the IMDB movie reivew set. Using this data, we build and train a recurrent LSTM autoencoder to compress reviews and further extract the encoder layer for further training in an additional network for classifying sentiment. This approach achieved an accuracy score of 77.5%
 
