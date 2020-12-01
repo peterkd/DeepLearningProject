@@ -3,7 +3,7 @@
 SCS 3546-010 Deep Learning Project
 Group: Liam Callaghan, Peter Kiedrowski and Prashant Sharma
 
-The project consists of three notebooks:
+The project consists of three notebooks. Each of these notebooks contains a link to run in Colab, which is the recommended environment.
 * [Recurrent_Autoencoder](https://github.com/peterkd/DeepLearningProject/blob/main/Recurrent%20LSTM%20Autoencoder/Recurrent_Autoencoder.ipynb)
 * [BERT Classifier](https://github.com/peterkd/DeepLearningProject/blob/main/BERT/BERT_Classifier.ipynb)
 * [GloVe_Classifier](https://github.com/peterkd/DeepLearningProject/blob/main/Glove_Classifier.ipynb)
